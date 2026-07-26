@@ -1,0 +1,1 @@
+# ai-vocab-builder-2026
